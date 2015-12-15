@@ -4,7 +4,7 @@ A wikidata query to generate a list of vehicles.
 #1 - Visit the URL
 https://query.wikidata.org
 
-#2 - Enter the query below
+Enter the query below
 
 PREFIX wd: <http://www.wikidata.org/entity/>
 PREFIX wdt: <http://www.wikidata.org/prop/direct/>
